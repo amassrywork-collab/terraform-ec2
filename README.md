@@ -1,4 +1,4 @@
-\# Terraform EC2 Example
+### Terraform EC2 Example
 
 
 
