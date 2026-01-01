@@ -1,5 +1,5 @@
 provider "aws" {
-  region = "me-central-1"
+  region = "eu-central-1"
 }
 
 data "aws_ami" "amazon_linux" {
